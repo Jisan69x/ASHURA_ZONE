@@ -5,7 +5,7 @@ body {
     position: relative;
 
     /* Moving gradient background */
-    background: linear-gradient(-45deg, #0f0f0f, #111, #00ff00, #0099ff);
+    background: linear-gradient(45deg, #ff0000, #ff0000, #ff3300, #ff6666);
     background-size: 400% 400%;
     animation: moveBG 15s ease infinite;
 }
